@@ -6,6 +6,7 @@
 
 body {
     background-color: #d9dcd6;
+    font-size: 16px;
 }
 
 /* header */
@@ -43,16 +44,12 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* end header */
-
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
+/* hero */
 
 .hero {
     height: 800px;
